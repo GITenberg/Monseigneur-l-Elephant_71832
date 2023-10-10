@@ -1,0 +1,42 @@
+_repo: Monseigneur-l-Elephant_71832
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Varlet, Théo
+    alias: Varlet, Theo
+    birthdate: 1878
+    deathdate: 1938
+    gutenberg_agent_id: '55527'
+    url: http://www.gutenberg.org/2009/agents/55527
+    wikipedia: https://fr.wikipedia.org/wiki/Th%C3%A9o_Varlet
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, R. (Rudyard)
+    - Kipling, Joseph Rudyard
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: https://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_issued: '2023-10-08'
+identifiers:
+  gutenberg: '71832'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k54522294
+pgterms:marc905: 20230301124631kipling
+pgterms:marc906: '1927'
+pgterms:marc907: FR
+production_note: Véronique Le Bris, Laurent Vogel and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bNelson, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Monseigneur l'Éléphant
+url: http://www.gutenberg.org/ebooks/71832
